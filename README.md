@@ -67,9 +67,13 @@ low cognitive load).
 
 | Name              | Student ID                  Role                             |
 |-----------------|------------------------|-------------------------|
+
 | James Githinji  | C027-01-0856/2024 | Team Lead / Research |
+
 | Jimmy Otieno  | C027-01-0905/2024  | UI / Wireframe Design |
+
 | Fednard Irungu | C027-01-0543/2024 | Documentation |
+
 | Kevin Kiprop    | C027-01-1462/2024 | GitHub Management |
 | Eric Wilson        | C027-01-0868/2024 | Interaction Design |
 | Yvone  Njambi  | C027-01-0842/2024 |  Testing & Iteration |
