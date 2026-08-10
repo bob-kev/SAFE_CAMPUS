@@ -9,7 +9,11 @@ This project focuses on designing a user-centered mobile application prototype t
 | Kevin Kiprop | Research Lead / UX Designer | User research, Personas, Task Flows |
 | Member 2 | UI/Wireframe Lead | Balsamiq Wireframing, Screen Navigation |
 | Member 3 | Documentation & Testing | Usability testing, Iteration tracking |
-| [Add remaining group members here] | ... | ... |
+| Member 4  |
+| Member 5 |
+|Member 6  |
+|Mmeber 7  |
+|Member 8 |
 
 ## 🎯 Problem Statement
 In high-stress campus emergency situations, traditional reporting via phone calls often leads to delayed response times due to panicking users failing to communicate exact locations or critical incident details clearly. Standard mobile interfaces are often too complex for users experiencing cognitive overload during acute stress.
