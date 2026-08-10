@@ -75,10 +75,15 @@ low cognitive load).
 | Fednard Irungu | C027-01-0543/2024 | Documentation |
 
 | Kevin Kiprop    | C027-01-1462/2024 | GitHub Management |
+
 | Eric Wilson        | C027-01-0868/2024 | Interaction Design |
+
 | Yvone  Njambi  | C027-01-0842/2024 |  Testing & Iteration |
+
 | Lucy Kimani      | C027-01-0890/2024 | UI / Wireframe Design|
+
 | Miriam Maina   | C027-01- 2633/2024 | UI / Wireframe Design |
+
 | Rodah  Kerubo | C027-01- 0916/2024 | Usability Testing |
 
 
